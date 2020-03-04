@@ -1,0 +1,29 @@
+[33mcommit ba357b39441f01b3a1ad0b3089227a64c648d289[m[33m ([m[1;36mHEAD -> [m[1;32madding-my-number[m[33m)[m
+Author: atelman <vs.kuzmenko@gmail.com>
+Date:   Tue Mar 3 23:45:46 2020 -0500
+
+    added my number to a branch
+
+[33mcommit 061b20dab5e3e52bee0a20100bafc98cc121dc43[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Author: atelman <vs.kuzmenko@gmail.com>
+Date:   Tue Mar 3 23:40:04 2020 -0500
+
+    added number
+
+[33mcommit e7db12275c4baba512666b60bba557708e014785[m
+Author: atelman <vs.kuzmenko@gmail.com>
+Date:   Tue Mar 3 23:38:37 2020 -0500
+
+    deleted one extra file
+
+[33mcommit 5cac3bc067acbbe745bb1928c116469e3605928b[m
+Author: atelman <vs.kuzmenko@gmail.com>
+Date:   Tue Mar 3 23:21:48 2020 -0500
+
+    updated file.opp
+
+[33mcommit 135d22cf0c5990e98995bb2073b60c29b0445f1c[m
+Author: atelman <vs.kuzmenko@gmail.com>
+Date:   Tue Mar 3 22:33:29 2020 -0500
+
+    adding test file to repo
